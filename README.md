@@ -2,6 +2,6 @@
 
 Olá! Bem vindo ao meu livro de receitas.
 
-- Pirão de Caldo com Franfgo
+- Pirão com Caldo de Frango
 
 - Pudim de Leite
